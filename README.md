@@ -1,5 +1,6 @@
 
 <div align="center">
+  
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -15,7 +16,7 @@
       width="100%"
     />
   </picture>
-</div>
+
 
 
 **Industrial Information Technology Undergraduate · Aspiring Software Engineer**

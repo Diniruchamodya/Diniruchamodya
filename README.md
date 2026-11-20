@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark (1).svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light (1).svg">
   <img src="./dark.svg" alt="Diniru Kahaduwa Arachchi — Industrial Information Technology undergraduate and aspiring software engineer" width="100%">
 </picture>
 

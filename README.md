@@ -16,10 +16,9 @@
       width="100%"
     />
   </picture>
+<br>
+<br>
 
-
-
-**Industrial Information Technology Undergraduate · Aspiring Software Engineer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Diniruchamodya-181717?style=flat-square&logo=github)](https://github.com/Diniruchamodya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diniru-kahaduwa-arachchi-94b481312/)
@@ -27,10 +26,6 @@
 
 </div>
 
-## 👋 About me
-
-Hi, I'm **Diniru Kahaduwa Arachchi**, <br>
-An undergraduate at **Uva Wellassa University, Sri Lanka**, pursuing **Industrial Information Technology**.
 
   
 ## 🛠️ Tech stack

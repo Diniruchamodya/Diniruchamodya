@@ -29,21 +29,8 @@
 
 ## 👋 About me
 
-Hi, I'm **Diniru Kahaduwa Arachchi**, an undergraduate at **Uva Wellassa University, Sri Lanka**, pursuing **Industrial Information Technology**. I'm developing my skills in software engineering through web applications, backend development and hands-on projects. I'm also interested in cybersecurity and secure systems.
-
-- 🎓 **Education:** Uva Wellassa University — Industrial Information Technology
-- 💻 **Focus:** Full-stack web development, Java and backend systems
-- 🔐 **Exploring:** Cybersecurity, networking and secure software engineering
-- 🚀 **Goal:** Grow into a professional software engineer
-
-## 🧩 Selected projects
-
-| Project | What I'm building / have built | Technologies |
-| :--- | :--- | :--- |
-| **UniAlloc** | University HR allocation system with role-based access, workload tracking and student supervisor requests | Next.js, PHP, MySQL, JWT |
-| **Ashoka Medi-Lab** | Laboratory services website project | Next.js |
-| **Photography Shop** | Photography services, portfolio and booking frontend | Next.js, React |
-
+Hi, I'm **Diniru Kahaduwa Arachchi**, <br>
+An undergraduate at **Uva Wellassa University, Sri Lanka**, pursuing **Industrial Information Technology**.
 
   
 ## 🛠️ Tech stack

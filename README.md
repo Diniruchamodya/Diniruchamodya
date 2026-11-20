@@ -1,18 +1,69 @@
-# 💫 About Me:
->Hi, I'm Diniru Kahaduwa Arachchi!<br><br>>🎓 Undergraduate student at Uva Wellassa University, pursuing a Bachelor of Industrial Information Technology(BIIT).
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Diniru Kahaduwa Arachchi — Industrial Information Technology undergraduate and aspiring software engineer" width="100%">
+</picture>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19uSbY5Nih/?mibextid=wwXIfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diniru-kahaduwa-arachchi-94b481312/) 
+<br>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Diniruchamodya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Diniruchamodya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Diniruchamodya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Industrial Information Technology Undergraduate · Aspiring Software Engineer**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Diniruchamodya-181717?style=flat-square&logo=github)](https://github.com/Diniruchamodya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diniru-kahaduwa-arachchi-94b481312/)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/19uSbY5Nih/?mibextid=wwXIfr)
+
+</div>
+
+## 👋 About me
+
+Hi, I'm **Diniru Kahaduwa Arachchi**, an undergraduate at **Uva Wellassa University, Sri Lanka**, pursuing **Industrial Information Technology**. I'm developing my skills in software engineering through web applications, backend development and hands-on projects. I'm also interested in cybersecurity and secure systems.
+
+- 🎓 **Education:** Uva Wellassa University — Industrial Information Technology
+- 💻 **Focus:** Full-stack web development, Java and backend systems
+- 🔐 **Exploring:** Cybersecurity, networking and secure software engineering
+- 🚀 **Goal:** Grow into a professional software engineer
+
+## 🧩 Selected projects
+
+| Project | What I'm building / have built | Technologies |
+| :--- | :--- | :--- |
+| **UniAlloc** | University HR allocation system with role-based access, workload tracking and student supervisor requests | Next.js, PHP, MySQL, JWT |
+| **Ashoka Medi-Lab** | Laboratory services website project | Next.js |
+| **Photography Shop** | Photography services, portfolio and booking frontend | Next.js, React |
+
+## 🛠️ Tech stack
+
+**Languages & web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frameworks & platforms**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Data & tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+
+## 📈 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Diniruchamodya&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics" height="160">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Diniruchamodya&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" height="160">
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Diniruchamodya&theme=transparent&hide_border=true" alt="GitHub contribution streak">
+
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=Diniruchamodya&style=flat-square&color=0e7490)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Diniruchamodya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center"><sub>Always learning · Always building · Always improving</sub></div>

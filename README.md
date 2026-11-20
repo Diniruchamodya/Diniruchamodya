@@ -44,6 +44,8 @@ Hi, I'm **Diniru Kahaduwa Arachchi**, an undergraduate at **Uva Wellassa Univers
 | **Ashoka Medi-Lab** | Laboratory services website project | Next.js |
 | **Photography Shop** | Photography services, portfolio and booking frontend | Next.js, React |
 
+
+  
 ## 🛠️ Tech stack
 
 **Languages & web**
@@ -59,6 +61,8 @@ Hi, I'm **Diniru Kahaduwa Arachchi**, an undergraduate at **Uva Wellassa Univers
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 
 ## 📈 GitHub activity
+
+
 
 <div align="center">
 

@@ -1,12 +1,22 @@
+
 <div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./dark%20(1).svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./light%20(1).svg"
+    />
+    <img
+      src="./dark%20(1).svg"
+      alt="Diniru GitHub Profile Banner"
+      width="100%"
+    />
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark (1).svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light (1).svg">
-  <img src="./dark.svg" alt="Diniru Kahaduwa Arachchi — Industrial Information Technology undergraduate and aspiring software engineer" width="100%">
-</picture>
-
-<br>
 
 **Industrial Information Technology Undergraduate · Aspiring Software Engineer**
 
